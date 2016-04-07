@@ -3,28 +3,28 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: The ministry and mission of Vision Unbound
-datePublished: '2016-04-07T10:22:12.291Z'
-dateModified: '2016-04-05T03:33:53.080Z'
+description: "For many years I have had this ministry on my heart. \_I have put it off, thinking I need to me personal finances and career sorted out before I started. \_Lately, I feel the Lord saying that is like saying I don't trust him to take care of me, to provide for this purpose he has laid on my life. \_So here I am launching a website for a ministry that is barely formed."
+datePublished: '2016-04-07T15:08:05.290Z'
+dateModified: '2016-04-07T15:07:55.938Z'
 title: Sharing Hope Through Love
 author: []
+sourcePath: _posts/2016-04-05-sharing-hope-through-love.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-sharing-hope-through-love.md
-published: true
 url: sharing-hope-through-love/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9cc02849-97e1-4d45-aaa0-55a16a44069b.jpg)
 
-## Sharing Hope Through Love
+## We Are Just Getting Started
 
 For many years I have had this ministry on my heart.  I have put it off, thinking I need to me personal finances and career sorted out before I started.  Lately, I feel the Lord saying that is like saying I don't trust him to take care of me, to provide for this purpose he has laid on my life.  So here I am launching a website for a ministry that is barely formed.
 
