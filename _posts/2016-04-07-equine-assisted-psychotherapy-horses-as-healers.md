@@ -17,8 +17,8 @@ keywords:
   - interact
   - may
 description: "The glare of the spotlight, the flamboyant costumes donned during competition, the students who followed every stomp of her feet and swing of the hips. It all suited the self-described \"mover and shaker\" with an infectious personality to a tee. There were even some older students in her classes who \"couldn't remember dance steps for anything,\" May jokes."
-datePublished: '2016-04-07T10:27:00.105Z'
-dateModified: '2016-04-07T10:26:35.716Z'
+datePublished: '2016-04-11T01:11:35.371Z'
+dateModified: '2016-04-07T10:27:10.654Z'
 author: []
 related: []
 app_links:
@@ -27,14 +27,14 @@ app_links:
     namespace: google
     type: android
 title: 'Equine-assisted psychotherapy: Horses as healers'
+sourcePath: _posts/2016-04-07-equine-assisted-psychotherapy-horses-as-healers.md
+published: true
 authors: []
 publisher:
   name: CNN
   domain: edition.cnn.com
   url: 'http://edition.cnn.com'
   favicon: 'http://edition.cnn.com/favicon.ie9.ico'
-sourcePath: _posts/2016-04-07-equine-assisted-psychotherapy-horses-as-healers.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
